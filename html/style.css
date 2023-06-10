@@ -1,0 +1,28 @@
+<style>
+
+                
+                #COVER { color: white; background-image: url(../p); height: 500px ; background-size: cover ; align-items: center ;align-content: flex-start ; width: 1700px  }
+                
+                #COVER h1 {font-size: 40px ; letter-spacing: 10px; font-weight: bold ; font-family: monospace ;color: aliceblue; background-color: black} 
+                
+                    
+                .header-inro { background-color:#5480A7; color: white;text-decoration: underline; text-align: center; padding-bottom:10 ;width: 1700px}
+                .lead {text-align: justify; color: aliceblue;background-color: black ;padding: 15px 20px 25px 23px ; width:1700px }
+    
+                .Leisure-Tourism { background-color: #5480A7 ; color:white; text-decoration: underline; padding: 15px 20px 25px 23px ;margin-bottom: 20px ; width:1700px ;  }
+    
+                .Leisure-culture { font-size: 25px ; font-family: sans-serif ; color: white; background-color: black;width:1700px ; padding: 15px 20px 25px 23px}
+    
+                .medical-Tourism  {font-size: 30px ; border-color: firebrick ; color: black}
+                .accordion {width: 1700px}
+            
+               
+    
+    
+    
+    
+    
+    
+    
+    
+</style>    

@@ -1,0 +1,190 @@
+ 
+                  <style>
+                
+h1 {background-color:blue} 
+
+
+/* start nav */
+
+#nav a { border:3px ; text-decoration: underline } 
+
+#nav {background-color: wheat;}
+
+/* end nav */
+
+
+/*Start COVER */
+
+#COVER { color: white; background-image: url(../photos/Egypt-Tours-1200x750.jpg); height: 600px ; background-size: cover;display: flex ; justify-content: space-between; align-items:center ;width:1600px}
+#COVER h1 {font-size: 50px ; letter-spacing: 20px; font-weight: bold ; background-color: black}
+
+
+
+
+
+/*End COVER */
+
+
+
+/*start intro_sec */
+
+
+#intro_header {background-color: burlywood; color: white; background-size: 50px ; padding: 30px
+    ; font-family: sans-serif; font-size: 35px ; font-weight: bold ; padding: 10px ; width: 1600px}
+#intro_sec {background-color: black; color: white ;font-family: sans-serif ; font-size: 20px ; font-weight: bold ; padding: 15px 20px 25px 23px ;margin-bottom: 50px ; width: 1600px}
+
+#intro P {width: 1600px}
+
+
+
+/*end intro_sec */
+
+
+
+/* start grand*/
+
+#grand {background-color: black; color: white ; text-align: center ; padding: 30px ; width: 1600px}
+#grand #grp {width:1600px ; display: inline ;font-size: 35px ; font-weight: bold}
+#grand #grp img {width: 500px ; margin-top: 10px ; cursor:pointer ; transition: 10}
+#grand P1 {text-align: justify ;padding-bottom: 30% ; font-size:20px ; font-weight: bold}
+#grand P {text-align: justify ;padding: 10%; ; font-size: 20px ; font-weight: bold}
+
+
+#grand h2 {font-size: 80px;padding-bottom: 10%; font-weight:bold}
+#grand #grp button {background-color: dimgrey; padding: 5% ; cursor: pointer}
+#grand #grp button:hover{background-color: white; color: black ; transition:3s}
+
+
+/* end grand */
+
+
+
+/*start card */
+
+
+
+.card-sec {margin: auto ; display: block ;}
+
+
+
+
+
+
+
+/*end card*/
+
+
+/* Start CARTOGRAPHY_SEC */
+
+#CARTOGRAPHY_header {color: black}
+
+#CARTOGRAPHY_SEC { background-color: bisque; background-size: 5 ; font-family: monospace ; font-size: 20px; font-weight: bold ; padding: 50PX}
+
+
+#CARTOGRAPHY_SEC P{color: saddlebrown}
+
+
+
+
+/* End CARTOGRAPHY_SEC */
+
+
+
+/* start RS_SEC */ 
+
+
+  #RS_SEC{ background-color: darkslateblue; color: black ; font-family: monospace; font-size: 20PX ; font-weight: bold}
+
+  #RS_header { color: saddlebrown; 
+      
+                            font-family: sans-serif;
+                    font-size: 20px;}
+
+
+
+
+/* end RS_SEC */
+
+
+    /* start SURVEY_SEC */
+
+
+
+      #SURVEY_SEC {background-color: plum ; background-size: 20px  ;color:yellow ;font-family: monospace ; font-size: 20px ; font-weight: bold }
+
+
+
+
+
+
+    /* end SURVEY_SEC */
+
+
+
+/*start body */
+
+#body {background-color: blue; padding: 0 ; margin-top: 20 }
+
+
+
+/*end body*/
+
+
+
+
+/*start accordion item */
+
+
+
+
+
+
+
+
+
+
+
+
+/*end accordion item*/
+
+
+
+/* start footer*/
+
+footer {background-color: sandybrown; margin: 0 ; padding: 0.5% ; padding-left: }
+footer p {margin: 0% ; color: floralwhite}
+footer a {color: blac}
+
+
+
+/* end footer*/
+
+/* start culture*/
+
+.cullture-tourism {font-size: 40px ; padding-bottom: 2px ; margin: 40px}
+
+
+
+
+/*end culture*/
+
+/*start festival*/
+
+
+
+#festival {font-size: 25px ; padding-bottom: 20px ; margin: 20px}
+
+
+/*end festival*/
+
+                
+               
+             
+                
+               
+
+
+
+
+            </style>
+                       
